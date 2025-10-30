@@ -96,13 +96,6 @@ Tidal's API doesn't allow third-party applications to access user playlists (req
 - Gets complete metadata (ISRCs, etc.)
 - No API keys or authentication setup needed
 
-## Future Plans
-
-- [ ] Spotify export support
-- [ ] Beatport export support
-- [ ] Cross-platform playlist conversion
-- [ ] Automated backup scheduling
-
 ## License
 
 MIT
